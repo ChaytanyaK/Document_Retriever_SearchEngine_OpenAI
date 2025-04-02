@@ -33,7 +33,7 @@ The vastness of unstructured data like Wikipedia makes it challenging to extract
 ├── simplewiki-2020-11-01.jsonl.gz                                # Wikipedia data (JSONL, compressed)
 ├── README.md                                                     # This file
 
-
+```
 
 ## 🧪 Technologies Used
 Python
